@@ -61,7 +61,7 @@ pip uninstall -y nvidia-cuda-cupti-cu11 nvidia-cuda-nvrtc-cu11 nvidia-cuda-runti
 
 ```
 # clone this repo
-git clone --branch new_isaac_demo --recursive https://github.com/johnnylu305/mast3r.git
+git clone --recursive https://github.com/johnnylu305/Hestia-NBV-Demo.git
 # install required packages
 pip install -r requirements.txt
 pip install -r dust3r/requirements.txt
