@@ -39,8 +39,8 @@ export ISAACSIM_PATH="${HOME}/isaacsim"
 export ISAACSIM_PYTHON_EXE="${ISAACSIM_PATH}/python.sh"
 
 # conda environment
-./isaaclab.sh --conda isaaclab2.1
-conda activate isaaclab2.1
+./isaaclab.sh --conda isaaclab2.1_demo
+conda activate isaaclab2.1_demo
 
 # install packages
 ./isaaclab.sh --install
@@ -62,6 +62,10 @@ pip uninstall -y nvidia-cuda-cupti-cu11 nvidia-cuda-nvrtc-cu11 nvidia-cuda-runti
 ```
 # clone this repo
 git clone --recursive https://github.com/johnnylu305/Hestia-NBV-Demo.git
+
+# conda environment
+conda activate isaaclab2.1_demo
+
 # install required packages
 pip install -r requirements.txt
 pip install -r dust3r/requirements.txt
