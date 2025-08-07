@@ -1,0 +1,4 @@
+[submodule "dust3r"]
+	path = dust3r
+	url = https://github.com/johnnylu305/dust3r_MAD3D
+	branch = dev
