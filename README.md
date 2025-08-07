@@ -72,6 +72,8 @@ pip install -r dust3r/requirements.txt
 pip install colorama
 pip install numpy==1.26
 
+# Download model here https://drive.google.com/drive/folders/1xac1mstzRagjtP54Ocd2OE0o2gs9TnYi?usp=sharing
+
 # You need to modify the following path in sim.py accordingly:
 # sys.path.append("/home/dsr/Documents/mad3d/demo/isaac-sim-4.5.0/home/Hestia-NBV")
 # sys.path.append("/home/dsr/Documents/mad3d/demo/isaac-sim-4.5.0/home/Hestia-NBV/source/isaaclab_tasks/isaaclab_tasks/direct/single_drone")
