@@ -70,7 +70,7 @@ conda activate isaaclab2.1_demo
 pip install -r requirements.txt
 pip install -r dust3r/requirements.txt
 pip install colorama
-pip install numpy==1.26
+pip install numpy==1.26 scipy==1.11
 
 # Download model here https://drive.google.com/drive/folders/1xac1mstzRagjtP54Ocd2OE0o2gs9TnYi?usp=sharing
 
@@ -78,7 +78,7 @@ pip install numpy==1.26
 # sys.path.append("/home/dsr/Documents/mad3d/demo/isaac-sim-4.5.0/home/Hestia-NBV")
 # sys.path.append("/home/dsr/Documents/mad3d/demo/isaac-sim-4.5.0/home/Hestia-NBV/source/isaaclab_tasks/isaaclab_tasks/direct/single_drone")
 # sys.path.append("/home/dsr/Documents/mad3d/demo/isaac-sim-4.5.0/home/Hestia-NBV/scripts/mad3d")
-# img_root, mode_name
+# img_root, model_name
 
 # You need to modify scripts/mad3d/sb3_policy_cus.py in Hestia-NBV for real-world demo:
 # prob_grid[env, :, :, :5] = 0.5
