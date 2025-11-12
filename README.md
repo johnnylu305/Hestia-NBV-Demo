@@ -91,6 +91,14 @@ python3 sim.py
 python3 demo.py --model_name MASt3R_ViTLarge_BaseDecoder_512_catmlpdpt_metric
 ```
 
+### Setup Drone Codebase  
+*Please contact our robotic scientists Trung and Xiao Da for more details.*
+- [hai_3d_indoor](https://github.com/cibcicentre/hai_3d_indoor)  
+- [AdaptiveController](https://github.com/cibcicentre/AdaptiveController)  
+- [dji_ros2_node](https://github.com/cibcicentre/dji_ros2_node)  
+- [dji_ros2_srv_action](https://github.com/cibcicentre/dji_ros2_srv_action)  
+- [DJISDKAndroidROS2](https://github.com/cibcicentre/DJISDKAndroidROS2)
+
 ### Hestia-NBV-Demo
 
 ```
