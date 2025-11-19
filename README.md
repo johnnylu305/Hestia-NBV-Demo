@@ -98,6 +98,7 @@ python3 demo.py --model_name MASt3R_ViTLarge_BaseDecoder_512_catmlpdpt_metric
 - [dji_ros2_node](https://github.com/cibcicentre/dji_ros2_node)  
 - [dji_ros2_srv_action](https://github.com/cibcicentre/dji_ros2_srv_action)  
 - [DJISDKAndroidROS2](https://github.com/cibcicentre/DJISDKAndroidROS2)
+- [Instruction](https://github.com/cibcicentre/testing_steps)
 
 ### Hestia-NBV-Demo
 
