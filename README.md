@@ -119,14 +119,13 @@ python3 demo.py --model_name MASt3R_ViTLarge_BaseDecoder_512_catmlpdpt_metric
 If you find the codebase useful for your research, please consider citing:
 
 ```
-@misc{lu2025hestiavoxelfaceawarehierarchicalnextbestview,
-      title={Hestia: Voxel-Face-Aware Hierarchical Next-Best-View Acquisition for Efficient 3D Reconstruction}, 
-      author={Cheng-You Lu and Zhuoli Zhuang and Nguyen Thanh Trung Le and Da Xiao and Yu-Cheng Chang and Thomas Do and Srinath Sridhar and Chin-teng Lin},
-      year={2025},
-      eprint={2508.01014},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2508.01014}, 
+@inproceedings{lu2026hestia,
+  title={Hestia: Voxel-Face-Aware Hierarchical Next-Best-View Acquisition for Efficient 3D Reconstruction},
+  author={Lu, Cheng-You and Zhuang, Zhuoli and Le, Nguyen Thanh Trung and Xiao, Da and Chang, Yu-Cheng and Do, Thomas and Sridhar, Srinath and Lin, Chin-Teng},
+  booktitle={2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  pages={5302--5312},
+  year={2026},
+  organization={IEEE}
 }
 ```
 
