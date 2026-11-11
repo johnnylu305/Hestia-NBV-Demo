@@ -1,6 +1,6 @@
 ## Codebase
 
-The codebase includes parts of the real-world demonstration of Hestia-NBV: Hestia-NBV for next-best-view prediction and MASt3R for RGB-to-depth conversion. The codebase is based on the NVIDIA IsaacLab 2.1 (July 12, 2025), MASt3R, dust3r_MAD3D, and Hestia-NBV repo. Please follow [Hestia-NBV](https://github.com/johnnylu305/Hestia-NBV) to setup IsaacLab environment. For the real-world drone communication and control component, please refer to the [repository](TBD) organized by our robotics scientists, Da Xiao and Trung Le.
+The codebase includes parts of the real-world demonstration of Hestia-NBV: Hestia-NBV for next-best-view prediction and MASt3R for RGB-to-depth conversion. The codebase is based on the NVIDIA IsaacLab 2.1 (July 12, 2025), MASt3R, dust3r_MAD3D, and Hestia-NBV repo. Please follow [Hestia-NBV](https://github.com/johnnylu305/Hestia-NBV) to setup IsaacLab environment. For the real-world drone communication and control component, please refer to the [repository](https://github.com/johnnylu305/Hestia-NBV-Demo/blob/main/README.md#setup-drone-codebase) organized by our robotics scientists, Da Xiao and Trung Le.
 
 
 ## Codebase
